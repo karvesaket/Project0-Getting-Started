@@ -20,10 +20,10 @@ Project 0 Getting Started
 ![](images/Part5-Analyze.jpg)
 
 #### NSight Debugging
-- Autos
+- Autos\
 ![](images/Part6-Autos.jpg)
-- Warp info
-![[](images/Part6-WarpInfo.jpg)
+- Warp info\
+![](images/Part6-WarpInfo.jpg)
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
 anything here that you don't want to share with the world.)
 
