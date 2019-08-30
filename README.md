@@ -28,6 +28,4 @@ Note: I tried testing it on the Moore Lab computers but it could not run as shif
 ![](images/Part6-Autos.jpg)
 - Warp info\
 ![](images/Part6-WarpInfo.jpg)
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
 
