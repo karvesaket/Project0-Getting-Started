@@ -13,6 +13,10 @@ Project 0 Getting Started
 ![](images/Part2.2-WebGLSupport.jpg)
 [PDF](images/chrome_gpu.pdf)
 
+#### DXR Support
+
+Note: I tried testing it on the Moore Lab computers but it could not run as shifting to fallback layer requires 'Developer Mode' enabled. Moore lab computers do not provide admin access to enable developer mode. 
+
 #### Running the modified version of CUDA project
 ![](images/Part4-Modify.jpg)
 
